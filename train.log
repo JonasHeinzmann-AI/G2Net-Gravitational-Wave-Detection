@@ -1,0 +1,57 @@
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.5572  avg_val_loss: 0.4874  time: 1280s
+Epoch 1 - Score: 0.8316
+Epoch 1 - Save Best Score: 0.8316 Model
+Epoch 1 - Save Best Loss: 0.4874 Model
+Epoch 2 - avg_train_loss: 0.4756  avg_val_loss: 0.4585  time: 1303s
+Epoch 2 - Score: 0.8491
+Epoch 2 - Save Best Score: 0.8491 Model
+Epoch 2 - Save Best Loss: 0.4585 Model
+Epoch 3 - avg_train_loss: 0.4543  avg_val_loss: 0.4523  time: 1373s
+Epoch 3 - Score: 0.8528
+Epoch 3 - Save Best Score: 0.8528 Model
+Epoch 3 - Save Best Loss: 0.4523 Model
+Epoch 4 - avg_train_loss: 0.4477  avg_val_loss: 0.4563  time: 1342s
+Epoch 4 - Score: 0.8534
+Epoch 4 - Save Best Score: 0.8534 Model
+Epoch 5 - avg_train_loss: 0.4468  avg_val_loss: 0.4557  time: 1172s
+Epoch 5 - Score: 0.8539
+Epoch 5 - Save Best Score: 0.8539 Model
+========== fold: 0 result ==========
+Score: 0.8528
+========== fold: 1 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.5522  avg_val_loss: 0.4954  time: 968s
+Epoch 1 - Score: 0.8350
+Epoch 1 - Save Best Score: 0.8350 Model
+Epoch 1 - Save Best Loss: 0.4954 Model
+Epoch 2 - avg_train_loss: 0.4717  avg_val_loss: 0.4551  time: 925s
+Epoch 2 - Score: 0.8516
+Epoch 2 - Save Best Score: 0.8516 Model
+Epoch 2 - Save Best Loss: 0.4551 Model
+Epoch 3 - avg_train_loss: 0.4516  avg_val_loss: 0.4633  time: 806s
+Epoch 3 - Score: 0.8539
+Epoch 3 - Save Best Score: 0.8539 Model
+Epoch 4 - avg_train_loss: 0.4453  avg_val_loss: 0.4573  time: 795s
+Epoch 4 - Score: 0.8543
+Epoch 4 - Save Best Score: 0.8543 Model
+Epoch 5 - avg_train_loss: 0.4444  avg_val_loss: 0.4547  time: 837s
+Epoch 5 - Score: 0.8538
+Epoch 5 - Save Best Loss: 0.4547 Model
+========== fold: 0 result ==========
+Score: 0.8538
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 0.5694  avg_val_loss: 0.8122  time: 847s
+Epoch 1 - Score: 0.8282
+Epoch 1 - Save Best Score: 0.8282 Model
+Epoch 1 - Save Best Loss: 0.8122 Model
+Epoch 2 - avg_train_loss: 0.4754  avg_val_loss: 0.4664  time: 880s
+Epoch 2 - Score: 0.8475
+Epoch 2 - Save Best Score: 0.8475 Model
+Epoch 2 - Save Best Loss: 0.4664 Model
